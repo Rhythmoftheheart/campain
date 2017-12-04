@@ -506,6 +506,10 @@ img{
 .harten-wrap p, .harten-wrap h1{
   color: white;
 }
+.locatiemap{
+  position: relative;
+  top: 10px;
+}
 .optredens{
   margin: 70px auto 80px;
 }
