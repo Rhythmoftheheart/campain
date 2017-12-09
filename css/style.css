@@ -446,13 +446,13 @@ img{
   top: 35px;
   right: 35px;
   cursor: pointer;
+  z-index: 10000;
 }
 .overlay-closer p{
   color: white;
   display: inline-block;
   border: 2px solid;
   padding: 15px 19px;
-  z-index: 10000;
 }
 .content-overlay p{
     font-size: 1.4em;
